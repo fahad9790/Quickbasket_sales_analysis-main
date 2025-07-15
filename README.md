@@ -263,7 +263,7 @@ GROUP BY shift;
 1. **Clone the Repo**
 
    ```bash
-   git clone https://github.com/dhananjoy01/quickbasket_sales_analysis.git
+   git clone https://github.com/fahad9790/quickbasket_sales_analysis.git
    ```
 
 2. **Import the SQL File** Load `quickbasket_sales_analysis.sql` into your PostgreSQL or compatible database.
@@ -274,27 +274,9 @@ GROUP BY shift;
 
 ---
 
-## 📌 Disclaimer
 
-**QuickBasket** is a fictional company created solely for educational and demonstration purposes.\
-Any resemblance to real entities is purely coincidental.
 
----
 
-## 👨‍💼 Author: [Dhanan Joy](https://www.linkedin.com/in/dhananjoy01/)
-
-This is part of my SQL portfolio to showcase practical skills in data analytics.
-
----
-
-## 🌐 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/najirr) – Let’s connect professionally
--	 [Gmail](dhananjoychandro01@gmail.com) – Let’s connect professionally
--    [Portfolio] (https://www.datascienceportfol.io/dhananjoychandro01)
--    [Kaggle]    (https://www.kaggle.com/dhanamjoy01/)
-
----
 
 **Thanks for checking out this project! ⭐ Star the repo if you found it helpful.**
 
