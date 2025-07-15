@@ -7,7 +7,6 @@
 ## 📊 Project Overview
 
 **Project Title**: QuickBasket Sales Analysis\
-**Skill Level**: Beginner\
 **Database Name**: `Retail_sales_analysis`
 
 This project simulates retail sales data for a fictional company called **QuickBasket**, created for educational and portfolio purposes. You'll perform data cleaning, exploration, and business analysis using SQL — skills essential for any aspiring data analyst.
